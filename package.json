@@ -1,0 +1,20 @@
+{
+  "name": "private-plugin-repository-wrapper",
+  "version": "1.0.0",
+  "description": "Containing folders will be sorted and compressed to satisfy the private-plugin-repository needs",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-foreach": "^0.1.0",
+    "gulp-tap": "^0.1.3",
+    "gulp-zip": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Daniel Grützmacher",
+  "license": "ISC"
+}
